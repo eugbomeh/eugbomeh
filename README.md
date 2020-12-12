@@ -1,4 +1,4 @@
-## Hi there, I'm Eli 👋 [<img align="left" alt="eugbomeh | LinkedIn" width="22px" src="https://www.flaticon.com/free-icon/linkedin_174857?term=linkedin&page=1&position=1&related_item_id=174857" />][linkedin]
+## Hi there, I'm Eli 👋 [<img align="left" alt="eugbomeh | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
 
 ### I'm a Husband, Engineer, and Trainer!!
 
