@@ -24,10 +24,10 @@
 
 ---
 
-<img align="center" alt="eugbomeh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eugbomeh&show_icons=true&hide_border=true&theme=dracula" />
+<img align="left" alt="eugbomeh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eugbomeh&show_icons=true&hide_border=true&theme=dracula" />
 
 
-< ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugbomeh&langs_count=8&theme=dracula) />
+<img align="right" ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugbomeh&langs_count=8&theme=dracula&hide_border=true) />
 
 [website]: https://eutomatics.com
 [youtube]: https://youtube.com/eutomatics
