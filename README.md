@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822921.svg" />]
+<img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822921.svg" />
 
 <br />
 
