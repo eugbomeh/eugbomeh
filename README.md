@@ -1,7 +1,6 @@
-### Hi there, I'm Eli 👋
-[<img align="left" alt="eugbomeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Hi there, I'm Eli 👋 [<img align="left" alt="eugbomeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-## I'm a Husband, Engineer, and Trainer!!
+### I'm a Husband, Engineer, and Trainer!!
 
 
 - 🌱 I’m currently learning everything data and agile related
