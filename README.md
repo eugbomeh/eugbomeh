@@ -5,8 +5,8 @@
 
 
 - 🌱 I’m currently learning everything data and agile related
-- 👯 I’m looking to collaborate with other content Data EngineerS
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other Data Engineers
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
@@ -18,11 +18,18 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="52px" src="https://as1.ftcdn.net/jpg/02/69/37/40/500_F_269374043_29oWqzUTXIQ0Vxha9gLEiyInUAzvzRqr.jpg" />
+<img align="left" alt="SQL" width="22px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
+<img align="left" alt="Power BI" width="22px" src="https://www.onmsft.com/wp-content/uploads/2020/10/newpowerbiicon.jpg" />
+<img align="left" alt="Python" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="Julia" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="SSIS" width="22px" src="https://www.sqlsplus.com/wp-content/uploads/2020/06/SSIS-SQL-Server-Integration-Services-Description-of-integration-services.jpg" />
+<img align="left" alt="Excel" width="22px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" />
+
+
 
 <br />
 
----
+--
 
 <img align="left" alt="eugbomeh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eugbomeh&show_icons=true&hide_border=true" />
 
