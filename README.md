@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" alt="Eli Github Stats" src= "https://github-readme-stats.vercel.app/api?userame=eugbomeh&show_icons=true&hide_border=true" /> 
+---
+
+<img align="left" alt="eugbomeh's Github Stats" src="https://github-readme-stats.vercel.app/api?userame=eugbomeh&show_icons=true&hide_border=true" /> 
