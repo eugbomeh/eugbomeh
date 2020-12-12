@@ -1,5 +1,5 @@
 ### Hi there, I'm Eli 👋
-
+[<img align="left" alt="eugbomeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ## I'm a Husband, Engineer, and Trainer!!
 
@@ -7,12 +7,6 @@
 - 🌱 I’m currently learning everything data and agile related
 - 👯 I’m looking to collaborate with other Data Engineers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-
-
-### Connect with me:
-
-[<img align="left" alt="eugbomeh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="eugbomeh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
