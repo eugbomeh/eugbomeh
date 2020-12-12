@@ -4,8 +4,8 @@
 ## I'm a Husband, Engineer, and Trainer!!
 
 
-- 🌱 I’m currently learning everything data and agile related 🤣
-- 👯 I’m looking to collaborate with other content Data Engineer
+- 🌱 I’m currently learning everything data and agile related
+- 👯 I’m looking to collaborate with other content Data EngineerS
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 
@@ -14,7 +14,7 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 <br />
 
 ### Languages and Tools:
