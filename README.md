@@ -24,7 +24,7 @@
 
 ---
 
-<img align="left" alt="eugbomeh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eugbomeh&show_icons=true&hide_border=true&theme=dracula" />
+<img align="center" alt="eugbomeh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eugbomeh&show_icons=true&hide_border=true&theme=dracula" />
 
 
 [website]: https://eutomatics.com
