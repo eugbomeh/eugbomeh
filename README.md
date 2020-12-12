@@ -26,6 +26,7 @@
 
 <img align="left" alt="eugbomeh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eugbomeh&show_icons=true&hide_border=true&theme=dracula" />
 
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugbomeh&langs_count=8&theme=dracula&hide_border=true&layout=compact)
 
