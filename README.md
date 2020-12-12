@@ -27,7 +27,7 @@
 <img align="center" alt="eugbomeh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eugbomeh&show_icons=true&hide_border=true&theme=dracula" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugbomeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugbomeh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://eutomatics.com
 [youtube]: https://youtube.com/eutomatics
