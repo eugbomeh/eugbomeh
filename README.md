@@ -11,10 +11,10 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Power BI" width="44px" src="https://www.onmsft.com/wp-content/uploads/2020/10/newpowerbiicon.jpg" />
-<img align="left" alt="SQL" width="22px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
-<img align="left" alt="Excel" width="56px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" />
 <img align="left" alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="SQL" width="22px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
+<img align="left" alt="Power BI" width="44px" src="https://www.onmsft.com/wp-content/uploads/2020/10/newpowerbiicon.jpg" />
+<img align="left" alt="Excel" width="56px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" />
 <img align="left" alt="Julia" width="35px" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/julia_94934.png" />
 
 <br />
