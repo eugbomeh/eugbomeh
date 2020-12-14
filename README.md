@@ -17,9 +17,6 @@
 <img align="left" alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="Julia" width="40px" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/julia_94934.png" />
 
-
-
-
 <br />
 
 ---
