@@ -11,10 +11,10 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="left" alt="SQL" width="22px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
+<img align="left" alt="Python" width="35px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="SQL" width="35px" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg" />
 <img align="left" alt="Power BI" width="35px" src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Microsoft_Power_BI_%282020%29.svg" />
-<img align="left" alt="Excel" width="56px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" />
+<img align="left" alt="Excel" width="60px" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" />
 <img align="left" alt="Julia" width="35px" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/julia_94934.png" />
 
 <br />
