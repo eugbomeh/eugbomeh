@@ -3,7 +3,7 @@
 ### I'm a Husband, BI Engineer, and Trainer!
 
 
-- 🌱 I’m currently learning everything data and agile related
+- 🌱 I’m continously learning everything Business Intelligence and Business Agility related
 - 👯 I’m looking to collaborate with other BI Engineers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
