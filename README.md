@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Eli [<img align="center" alt="eugbomeh | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
+## 👋 Hi, I'm Eli [<img align="center" alt="eugbomeh | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
 
 ### I'm a Husband, BI Engineer, and Trainer!
 
